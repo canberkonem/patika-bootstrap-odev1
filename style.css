@@ -1,0 +1,27 @@
+body{
+    background-color: #E9ECEF;
+    font-family: 'Lato', sans-serif;
+}
+
+main{
+    padding-top: 6rem;
+}
+
+.about-btn{
+    color: #fff;
+    text-decoration: none;
+}
+
+.about-btn:hover
+.about-btn:focus{
+    color: white;
+}
+
+#products{
+    text-decoration: none;
+}
+
+#products:hover,
+#products:focus{
+    color: rgb(67, 67, 255);
+}
